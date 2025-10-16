@@ -1,0 +1,6 @@
+accelerate
+invisible_watermark
+pytorch-lightning
+sentence-transformers
+timm
+torch
